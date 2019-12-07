@@ -1,6 +1,6 @@
 # Firewall espartano
 
-Script de configuração de um firewall espartano, ou seja, um firewall que bloqueia quase todas as portas, somente permitindo o acesso por portas seguras (ssh, dns, http e https).
+Script de configuração de um firewall espartano, ou seja, um firewall que bloqueia quase todas as portas, somente permitindo o acesso por portas seguras (ssh, dns, http e https) e bloqueando todas as conexões de entrada.
 
 # Pré requisitos
 
